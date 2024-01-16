@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.898d2c4c.css",
+    "main.js": "/static/js/main.46f4a44e.js",
+    "static/media/night-sky-g571279477_1920.jpg": "/static/media/night-sky-g571279477_1920.c8e901fe92a3f48e942f.jpg",
+    "static/media/userImage.png": "/static/media/userImage.3f7e3e2a17f525306c73.png",
+    "index.html": "/index.html",
+    "main.898d2c4c.css.map": "/static/css/main.898d2c4c.css.map",
+    "main.46f4a44e.js.map": "/static/js/main.46f4a44e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898d2c4c.css",
+    "static/js/main.46f4a44e.js"
+  ]
+}
